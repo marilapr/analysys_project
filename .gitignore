@@ -1,0 +1,14 @@
+# Данные
+*.csv
+*.xlsx
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.model
+
+# Конфиденциальные файлы
+.env
+
+# Jupyter
+.ipynb_checkpoints/
